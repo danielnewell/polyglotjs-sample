@@ -1,0 +1,27 @@
+{
+  "name": "polyglotjs-sample",
+  "version": "1.0.0",
+  "description": "A sample app using PolyGlot JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielnewell/polyglotjs-sample.git"
+  },
+  "keywords": [
+    "i18n",
+    "l10n",
+    "polyglot"
+  ],
+  "author": "Daniel Newell",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/danielnewell/polyglotjs-sample/issues"
+  },
+  "homepage": "https://github.com/danielnewell/polyglotjs-sample#readme",
+  "dependencies": {
+    "node-polyglot": "^2.4.0"
+  }
+}

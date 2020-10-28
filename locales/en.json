@@ -1,0 +1,5 @@
+{
+    "appName": "Your Cool App",
+    "error": "An error has occurred.",
+    "hello": "Hello %{name}"
+    }
